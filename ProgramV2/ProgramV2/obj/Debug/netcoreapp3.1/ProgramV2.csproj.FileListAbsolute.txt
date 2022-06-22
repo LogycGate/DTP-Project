@@ -1,0 +1,13 @@
+C:\Users\sean.macpherson\source\repos\ProgramV2\ProgramV2\bin\Debug\netcoreapp3.1\ProgramV2.exe
+C:\Users\sean.macpherson\source\repos\ProgramV2\ProgramV2\bin\Debug\netcoreapp3.1\ProgramV2.deps.json
+C:\Users\sean.macpherson\source\repos\ProgramV2\ProgramV2\bin\Debug\netcoreapp3.1\ProgramV2.runtimeconfig.json
+C:\Users\sean.macpherson\source\repos\ProgramV2\ProgramV2\bin\Debug\netcoreapp3.1\ProgramV2.runtimeconfig.dev.json
+C:\Users\sean.macpherson\source\repos\ProgramV2\ProgramV2\bin\Debug\netcoreapp3.1\ProgramV2.dll
+C:\Users\sean.macpherson\source\repos\ProgramV2\ProgramV2\bin\Debug\netcoreapp3.1\ProgramV2.pdb
+C:\Users\sean.macpherson\source\repos\ProgramV2\ProgramV2\obj\Debug\netcoreapp3.1\ProgramV2.csprojAssemblyReference.cache
+C:\Users\sean.macpherson\source\repos\ProgramV2\ProgramV2\obj\Debug\netcoreapp3.1\ProgramV2.AssemblyInfoInputs.cache
+C:\Users\sean.macpherson\source\repos\ProgramV2\ProgramV2\obj\Debug\netcoreapp3.1\ProgramV2.AssemblyInfo.cs
+C:\Users\sean.macpherson\source\repos\ProgramV2\ProgramV2\obj\Debug\netcoreapp3.1\ProgramV2.csproj.CoreCompileInputs.cache
+C:\Users\sean.macpherson\source\repos\ProgramV2\ProgramV2\obj\Debug\netcoreapp3.1\ProgramV2.dll
+C:\Users\sean.macpherson\source\repos\ProgramV2\ProgramV2\obj\Debug\netcoreapp3.1\ProgramV2.pdb
+C:\Users\sean.macpherson\source\repos\ProgramV2\ProgramV2\obj\Debug\netcoreapp3.1\ProgramV2.genruntimeconfig.cache

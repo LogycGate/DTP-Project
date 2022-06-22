@@ -1,0 +1,13 @@
+C:\Users\sean.macpherson\source\repos\ProgramV3\ProgramV3\bin\Debug\netcoreapp3.1\ProgramV3.exe
+C:\Users\sean.macpherson\source\repos\ProgramV3\ProgramV3\bin\Debug\netcoreapp3.1\ProgramV3.deps.json
+C:\Users\sean.macpherson\source\repos\ProgramV3\ProgramV3\bin\Debug\netcoreapp3.1\ProgramV3.runtimeconfig.json
+C:\Users\sean.macpherson\source\repos\ProgramV3\ProgramV3\bin\Debug\netcoreapp3.1\ProgramV3.runtimeconfig.dev.json
+C:\Users\sean.macpherson\source\repos\ProgramV3\ProgramV3\bin\Debug\netcoreapp3.1\ProgramV3.dll
+C:\Users\sean.macpherson\source\repos\ProgramV3\ProgramV3\bin\Debug\netcoreapp3.1\ProgramV3.pdb
+C:\Users\sean.macpherson\source\repos\ProgramV3\ProgramV3\obj\Debug\netcoreapp3.1\ProgramV3.csprojAssemblyReference.cache
+C:\Users\sean.macpherson\source\repos\ProgramV3\ProgramV3\obj\Debug\netcoreapp3.1\ProgramV3.AssemblyInfoInputs.cache
+C:\Users\sean.macpherson\source\repos\ProgramV3\ProgramV3\obj\Debug\netcoreapp3.1\ProgramV3.AssemblyInfo.cs
+C:\Users\sean.macpherson\source\repos\ProgramV3\ProgramV3\obj\Debug\netcoreapp3.1\ProgramV3.csproj.CoreCompileInputs.cache
+C:\Users\sean.macpherson\source\repos\ProgramV3\ProgramV3\obj\Debug\netcoreapp3.1\ProgramV3.dll
+C:\Users\sean.macpherson\source\repos\ProgramV3\ProgramV3\obj\Debug\netcoreapp3.1\ProgramV3.pdb
+C:\Users\sean.macpherson\source\repos\ProgramV3\ProgramV3\obj\Debug\netcoreapp3.1\ProgramV3.genruntimeconfig.cache
