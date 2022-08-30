@@ -7,12 +7,12 @@ namespace Trash_Game {
     {
         static void Main(string[] args)
         {
-            //Clarifying variables.
+            // Clarifying variables.
             string trash = "0";
             int points = 0;
             int health = 3;
 
-            //Establishing lists and sorting trash into recycling and waste.
+            // Establishing lists and sorting trash into recycling and waste.
             var canRecycle = new List<string>()
             {
                 "Pizza Box",
@@ -47,27 +47,31 @@ namespace Trash_Game {
             };
 
             Random r = new Random();
-            //Calling the start loop method.
-            startMethod();
+            // Calling the start loop method.
+            if (!startMethod())
+            {
+                //Quit the program because user said they didnt want to play again
+                return;
+            }
 
-            //Starting the game.
+            // Starting the game.
             Console.WriteLine("Ok let's begin!");
-            //The game ends when the user gets 15 points.
+            // The game ends when the user gets 15 points.
             while (points < 15)
             {
-                //Picking from the two lists.
+                // Picking from the two lists.
                 int listNumber = r.Next(canRecycle.Count + noRecycle.Count);
-                //Avoiding errors by checking that the list has more than 0 items in the list.
+                // Avoiding errors by checking that the list has more than 0 items in the list.
                 if (listNumber <= canRecycle.Count)
                 {
-                    //Pulling an item from the list and assigning it the variable "trash".
+                    // Pulling an item from the list and assigning it the variable "trash".
                     trash = canRecycle[r.Next(0, canRecycle.Count)];
-                    //Removing the selected item from the list to avoid repeats.
+                    // Removing the selected item from the list to avoid repeats.
                     canRecycle.Remove(trash);
                     Console.WriteLine("Can you recycle " + trash + "? Y/N");
                     var answer = Console.ReadLine();
 
-                    //Checking if the user answer is correct and giving the user a point or subtracting a life accordingly
+                    // Checking if the user answer is correct and giving the user a point or subtracting a life accordingly
                     if (answer == "Y")
                     {
                         Console.WriteLine("Correct!");
@@ -117,7 +121,9 @@ namespace Trash_Game {
                 }
             }   
         }
-        static void startMethod()
+
+
+        static bool startMethod()
         {
             while (true)
                 {
@@ -128,11 +134,12 @@ namespace Trash_Game {
                 if (ready == "N")
                 {
                     Console.WriteLine("Come back when you are ready");
+                    return false;
                 }
 
                 else if (ready == "Y")
                 {
-                    break;
+                    return true;
                 }
 
                 else
